@@ -38,7 +38,5 @@ Pour garantir un apprentissage réel, nous avons établi des règles strictes :
 ## 🤝 Motivation & Entraide
 Ce groupe existe pour que nous puissions nous motiver mutuellement. Si l'un de nous bloque, on s'entraide, on explique, mais on ne donne pas la solution toute faite.
 
-> *"Makrahtch had le groupe nfido ba3dna wakha ghir bi lmotivation"* > (J'aimerais que ce groupe nous soit bénéfique, ne serait-ce que par la motivation).
-
 ---
 *Happy Coding !*
