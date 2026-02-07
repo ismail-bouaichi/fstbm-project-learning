@@ -7,7 +7,7 @@ Ce projet est né d'une initiative entre étudiants pour pratiquer nos cours en 
 ## 🎯 L'Objectif
 Chaque participant choisit un sujet de site web et le développe au fur et à mesure de l'avancement des cours. Le but ultime est d'avoir un projet complet et fonctionnel à présenter sur **GitHub** et dans notre **Portfolio** à la fin du semestre.
 
-## road_map : La Progression
+## map : La Progression
 Nous suivons le programme du module pour faire évoluer nos projets :
 
 1.  **Phase 1 : Structure** - Création du squelette en **HTML**.
