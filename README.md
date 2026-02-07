@@ -15,6 +15,19 @@ Nous suivons le programme du module pour faire évoluer nos projets :
 3.  **Phase 3 : Interactivité** - Dynamisation avec **JavaScript**.
 4.  **Phase 4 : Backend** - Gestion des données avec **PHP** ou **Laravel**.
 
+## 📂 Structure du Projet
+
+L'architecture du projet est divisée pour anticiper les futurs modules :
+
+```text
+├── 📁 front-end/      # Tout ce qui s'affiche dans le navigateur
+│   ├── index.html     # Le point de départ (Phase 1)
+│   ├── style.css      # Le design (Phase 2)
+│   └── script.js      # L'interactivité (Phase 3)
+│
+└── 📁 back-end/       # La logique serveur (à venir)
+    └── (PHP/Laravel)  # Sera peuplé lors des modules backend (Phase 4)
+```
 ## ⚠️ Le "Code d'Honneur" (Règles du Jeu)
 Pour garantir un apprentissage réel, nous avons établi des règles strictes :
 
